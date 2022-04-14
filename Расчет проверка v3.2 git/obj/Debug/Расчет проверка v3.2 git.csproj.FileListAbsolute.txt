@@ -1,0 +1,27 @@
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe.config
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.csprojResolveAssemblyReference.cache
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\Расчет_проверка_v3._2_git.Properties.Resources.resources
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\_2.Form1.resources
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.csproj.GenerateResource.Cache
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.pdb
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.exe
+C:\Users\evstafyev_aa\Documents\C#\Windows Forms\2\2\v3.2 git\Расчет проверка v3.2 git\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.pdb
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 git (Project VS)\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe.config
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 git (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.exe
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 git (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.pdb
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe.config
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.exe
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.pdb
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет_проверка_v3._2_git.Properties.Resources.resources
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\obj\Debug\_2.Form1.resources
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчет проверка v3.2 for git public (Project VS)\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.csproj.GenerateResource.Cache
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe.config
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.exe
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.pdb
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.exe
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\bin\Debug\Расчет проверка v3.2 git.pdb
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.csprojResolveAssemblyReference.cache
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\Расчет_проверка_v3._2_git.Properties.Resources.resources
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\_2.Form1.resources
+D:\Project\МГТУ\Тема 2\ЛСАР.468171.018(v5.6.БУП.vp)\Проверка БУП - 2020.03.17\БУП-Расчет проверка (программа Восход)\Расчетv3.2gitpub\Расчет проверка v3.2 git\obj\Debug\Расчет проверка v3.2 git.csproj.GenerateResource.Cache
